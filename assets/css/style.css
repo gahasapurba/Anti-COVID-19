@@ -1,0 +1,34 @@
+.logout {
+    color: white;
+    padding: 15px 50px 5px 50px;
+    float: right;
+    font-size: 16px;
+}
+
+.dasar {
+    background-color: #202020;
+    color: white;
+}
+
+.kotak-biru {
+    background-color: #3498db;
+}
+
+.kotak-oranye {
+    background-color: #f39c12;
+}
+
+.kotak-hijau {
+    background-color: #2ecc71;
+}
+
+.kotak-merah {
+    background-color: #e74c3c;
+}
+
+.kotakdel {
+    background: linear-gradient(to bottom, #0079C2 0%, #47156D 100%);
+    border-radius: 30px;
+    border-width: 5px;
+    border-color: white;
+}
